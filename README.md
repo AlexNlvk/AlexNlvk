@@ -4,6 +4,8 @@ My name is **Aleksandr Nalivaiko**
 
 I'm studying hard to become a professional **QA engineer**
 
+___
+
 #### My education
 
 **2010-2015 Higher education**   
@@ -14,6 +16,8 @@ I'm studying hard to become a professional **QA engineer**
 >* **Hexlet** Introduction to Web Application Testing   
 >* **GeekBrains** Basics of programming for the Tester    
 >* **Result school** HTML & CSS
+
+___
 
 #### My skills
 
