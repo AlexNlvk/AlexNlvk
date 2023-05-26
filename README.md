@@ -3,6 +3,11 @@
 My name is **Aleksandr Nalivaiko**
 
 I'm studying hard to become a professional **QA engineer**
+___
+
+#### Contact me
+
+[Instagram](https://www.instagram.com/alexander_nalivayko/) | [Telegram](https://t.me/alex_nlvk)
 
 ___
 
@@ -36,11 +41,6 @@ ___
 >- Autodesk AutoCAD-expert; 
 >- English - B1.
 
-___
-
-#### Contact me
-
-[Instagram](https://www.instagram.com/alexander_nalivayko/) | [Telegram](https://t.me/alex_nlvk)
 
 <!--
 **AlexNlvk/AlexNlvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
