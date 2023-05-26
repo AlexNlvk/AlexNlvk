@@ -9,13 +9,13 @@ ___
 #### My education
 
 **2010-2015 Higher education**   
->* **Far Eastern Federal University** Engineer, Hydraulic engineering
+>* **Far Eastern Federal University** - Engineer, Hydraulic engineering
 
 **2023 Educational courses**  
->* **G5 University** QA engineer   
->* **Hexlet** Introduction to Web Application Testing   
->* **GeekBrains** Basics of programming for the Tester    
->* **Result school** HTML & CSS
+>* **G5 University** - "QA engineer"   
+>* **Hexlet** - "Introduction to Web Application Testing"   
+>* **GeekBrains** - "Basics of programming for the Tester"    
+>* **Result school** - "HTML & CSS"
 
 ___
 
