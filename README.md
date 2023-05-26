@@ -3,7 +3,6 @@
 My name is **Aleksandr Nalivaiko**
 
 I'm studying hard to become a professional **QA engineer**
-___
 
 #### Contact me
 
