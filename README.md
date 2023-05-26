@@ -1,5 +1,38 @@
 ### Hi there 👋
 
+My name is **Aleksandr Nalivaiko**
+
+I'm studying hard to become a professional **QA engineer**
+
+#### My education
+
+**2010-2015 Higher education**   
+>* **Far Eastern Federal University** Engineer, Hydraulic engineering
+
+**2023 Educational courses**  
+>* **G5 University** QA engineer   
+>* **Hexlet** Introduction to Web Application Testing   
+>* **GeekBrains** Basics of programming for the Tester    
+>* **Result school** HTML & CSS
+
+#### My skills
+
+>- MS Excel-expert; 
+>- Postman-beginner; 
+>- VS Code-beginner; 
+>- SQL-beginner; 
+>- Jira-intermediate; 
+>- Git-beginner; 
+>- HTTP-beginner; 
+>- Python-beginner; 
+>- DevTools-intermediate; 
+>- HTML, CSS-beginner; 
+>- Client-server architecture; 
+>- MS Project-intermediate; 
+>- Autodesk AutoCAD-expert; 
+>- English - B1.
+
+
 <!--
 **AlexNlvk/AlexNlvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
