@@ -19,7 +19,7 @@ ___
 
 ___
 
-#### My skills
+### My skills
 
 >- MS Excel-expert; 
 >- Postman-beginner; 
