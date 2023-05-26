@@ -37,7 +37,6 @@ ___
 >- JavaScript-beginner; 
 >- Python-beginner; 
 >- DevTools-intermediate; 
->- HTML, CSS-beginner; 
 >- Client-server architecture; 
 >- MS Project-intermediate; 
 >- Autodesk AutoCAD-expert; 
