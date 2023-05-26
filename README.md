@@ -6,7 +6,7 @@ I'm studying hard to become a professional **QA engineer**
 
 ___
 
-#### My education
+### My education
 
 **2010-2015 Higher education**   
 >* **Far Eastern Federal University** - Engineer, Hydraulic engineering
